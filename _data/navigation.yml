@@ -9,7 +9,7 @@
 
 main:
   - title: "CV"
-    url: files/Aryan Dhanawade - Data Analyst.pdf
+    url: /files/Aryan Dhanawade - Data Analyst.pdf
 
   - title: "Portfolio"
     url: /portfolio/

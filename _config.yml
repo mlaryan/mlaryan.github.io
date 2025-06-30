@@ -9,10 +9,10 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Your Name / Site Title"
+title                    : "Aryan's Homepage" # the title of your site, e.g. "My Awesome Site"
 title_separator          : "-"
 name                     : &name "Aryan's Homepage"
-description              : &description "personal description"
+description              : &description "I love playing with Data.""
 url                      : https://mlaryan.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -25,11 +25,11 @@ author:
   avatar           : "Profilepic.jpg"
   name             : "Aryan Dhanawade"  
   pronouns         : # example: "she/her"
-  bio              : "Data Analytics, Machine Learning, NLP"
+  bio              : "Data Analytics, Python, Power BI, Tableau, Machine Learning, NLP"
   location         : "Navi Mumbai, India"
   employer         : # ""
   uri              : # URL
-  email            : "aryandhanawade.ml@gmail.com" 
+  email            : "aryandhanawade.ml@gmail.com"
 
   # Academic websites
   academia         : # URL
