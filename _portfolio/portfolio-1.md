@@ -51,7 +51,7 @@ Python (Pandas, Numpy, Matplotlib, Seaborn), Tableau, Jupyter Notebook
 
 ### Data Visualization and outcome [Tableau](https://public.tableau.com/app/profile/aryan.dhanawade7402/viz/LondonBikeShareAnalytics/D1)
 
-<img src='/images/London_cover.png' width="600px">
+<img src='/images/LondonBike_HourlyUsageTrends.jpg' width="800px">
 
 - Peak Hours : Usage significantly increases around 7:00 AM (1,66,309 shares) and then again at 8:00 AM (2,087,164 shares), indicating a strong morning commute pattern. In the evening, usage at 5 PM (2,059,938 shares) and 6 PM (1,913,944 shares) is very high, suggesting another peak.
 
