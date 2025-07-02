@@ -4,22 +4,22 @@ excerpt: "How can data analytics on London’s bike-sharing system inform busine
 collection: portfolio
 ---
 
-# [Github](https://github.com/mlaryan/London-Bike-Sharing-Dataset) [Tableau](https://public.tableau.com/app/profile/aryan.dhanawade7402/viz/LondonBikeShareAnalytics/D1)
+## [Github](https://github.com/mlaryan/London-Bike-Sharing-Dataset) [Tableau](https://public.tableau.com/app/profile/aryan.dhanawade7402/viz/LondonBikeShareAnalytics/D1)
 
-## Background :
+### Background :
 As cities increasingly focus on sustainable urban transportation, it's essential to grasp the factors that shape public bike-sharing systems. This project delves into how environmental elements like weather, humidity, and wind, along with temporal aspects such as the season, time of day, weekdays versus weekends, and holidays, influence bike usage patterns in London.
 
 The goal is to provide valuable insights that can inform inform business decisions regarding maintenance schedules, demand-based pricing, and promotional strategies.
 
-## Dataset
+### Dataset
 - Over 17,00+ Entries
 - 11 Features : date, time, Count of bike shares, real temp, temperature feels like, humidity, wind_speed, weather_code, is_holiday, is_weekend, season
 
-## Tech Stack Used :
+### Tech Stack Used :
 Python (Pandas, Numpy, Matplotlib, Seaborn), Tableau, Jupyter Notebook
 
 
-## 🔍 Data Cleaning & Processing Steps
+### 🔍 Data Cleaning & Processing Steps [Github](https://github.com/mlaryan/London-Bike-Sharing-Dataset)
 
 1. **Initial Inspection**
    - Loaded data with Pandas
@@ -41,3 +41,6 @@ Python (Pandas, Numpy, Matplotlib, Seaborn), Tableau, Jupyter Notebook
 6. **EDA (Exploratory Data Analysis)**
    - Visualized trends over time
    - Plotted correlations between temperature, humidity, and bike usage.
+
+### Data Visualization and outcome [Tableau](https://public.tableau.com/app/profile/aryan.dhanawade7402/viz/LondonBikeShareAnalytics/D1)
+
