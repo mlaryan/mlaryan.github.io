@@ -66,7 +66,7 @@ Python (Pandas, Numpy, Matplotlib, Seaborn), Tableau, Jupyter Notebook
 
 - Consistency in Morning Troughs :  **Between 1:00 AM and 4:00 AM, the usage consistently hits very low points (around 100K shares or less)**, reinforcing the idea that these are indeed very low-demand hours.
 
-<img src='/images/LondonBikeUserNumbs.jpg' width="500px", height="400px">
+<img src='/images/LondonBikeUserNumbs.jpg' width="500px" height="400px">
 
 - Dominant Usage in Clear Weather: **Clear weather consistently shows the highest bike** usage by a significant margin in both 2015 and 2016, **followed by Scattered Clouds**
 
