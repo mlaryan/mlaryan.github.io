@@ -9,51 +9,37 @@ redirect_from:
 
 # About Me
 
-Hi, I'm **Aryan Sudhakar Dhanawade**, an aspiring **Machine Learning Engineer** and MTech student from Mumbai, India. I'm passionate about working at the intersection of **AI/ML**, **Data Analytics**, and **Climate & Healthcare Research**.
+Hi, I’m **Aryan**. I am Data Analyst while finishing my **Master’s in IT, with a focus on Natural Language Processing**, at Somaiya Vidyavihar University. My coursework has **pushed my GPA to 9.00, at semester 1 and 8.05 at semester 2**.
 
-Currently, I'm pursuing a Master's degree in Information Technology with a specialization in **Artificial Intelligence and Machine Learning**. I'm also building my professional portfolio through real-world projects, under the mentorship of a Big Data Analytics Lead with experience at **CERN**, **ETH Zurich**, and **Google**.
+Day to day, I use **Python, SQL, Excel, Tableau, and Power BI** to sift through messy real-world data, spot hidden trends, and weave those findings into clear, practical stories for the team. At the moment **I am constantly learning - deep learning and language models**, curiosity driving me to see how code can learn to read, write, and understand context the way people do.
 
----
+I’m especially interested in applying these skills in impactful **domains like Healthcare, FinTech, and Mobility**. Where data can truly transform how we live, move, and make decisions.
 
-## 🔬 Research & Projects
-
-- 📊 **Aircraft Wildlife Strike Analysis (1990–2015)** – A comprehensive data study to identify trends and suggest preventive strategies.
-- 🌧️ **Geospatial Analysis of Monsoon-Affected Cities in Asia** – Focused on climatic extremes, infrastructure resilience, and disaster preparedness.
-- ⚡ **Energy Usage Tracker** – Predicting and visualizing electricity consumption of household devices.
-- 🧠 **Gesture-Based Volume Control** – Built with Python, OpenCV, MediaPipe, and Pycaw.
-
----
-
-## 🎓 Courses & Specializations
-
-- AI/ML for Geodata – by **ISRO**
-- Machine Learning Specialization – by **Andrew Ng**
-- Preparing for certifications and courses in **Power BI**, **Tableau**, and **Advanced ML Algorithms**
+Always eager for **tough problems, hands-on side projects, and cross-functional teams**, I view every new challenge as a chance to learn something fresh and then share that learning with others.
 
 ---
 
 ## 📚 Skills
 
-- **Programming:** Python, SQL  
-- **ML Algorithms:** Linear & Logistic Regression, KNN, SVM, Decision Trees, Random Forest, XGBoost, Clustering  
-- **Visualization:** Power BI, Tableau  
-- **Tools & Libraries:** NumPy, pandas, scikit-learn, OpenCV, MediaPipe
+- **Programming:** SQL, Python (Pandas, NumPy, Matplotlib, Seaborn)
+- **Data Tools** Excel (Pivot Tables, Power Query), Power BI, Tableau
+- **Database** MySQL, PostgreSQL
+- **Other:** DAX, VBA, Jupyter Notebook, GitHub, MS Power Automate
+---
+
+## 🎓 Courses & Specializations
+
+- [Complete Data Analyst by **Krish Naik**](https://www.udemy.com/certificate/UC-d5585782-2057-48d4-8c51-50de1b4b5ae6/)
+- [Tableau : Hands-on Tableau Training for Data Science](https://www.udemy.com/certificate/UC-ca32b0fd-6509-4d32-96bb-f665334a17f5/)
+- [Machine Learning Specialization – by **Andrew Ng**](https://www.coursera.org/account/accomplishments/specialization/R06XLN6URX42)
+- Deep Learning Specialization - by **Andrew Ng** (Currently in progress⌛)
 
 ---
 
 ## 🌍 Interests & Hobbies
 
-Outside of academics and research, I love to:
+Outside of academics and research, I love to :
 - 🌏 Travel and explore historical places  
 - 🥘 Try unique international cuisines  
 - 🪙 Collect ancient coins and antiques  
-- 📖 Read spy novels  
-- 🐕 Spend time with my black German Shepherd
-
----
-
-## 🌐 Career Goals
-
-My ultimate goal is to work as a **Machine Learning Engineer** at global research organizations like **CERN** or **ISRO**, contributing to impactful and interdisciplinary projects involving **Climate Change**, **Healthcare**, and **Mobility**.
-
-Let's connect and explore the world of data together !
+- 📖 Read spy novels & military history
