@@ -7,23 +7,23 @@ redirect_from:
   - /about.html
 ---
 
-# About Me
 
-Hi, I’m **Aryan**. I am Data Analyst while finishing my **Master’s in IT, with a focus on Natural Language Processing**, at Somaiya Vidyavihar University. My coursework has **pushed my GPA to 9.00, at semester 1 and 8.05 at semester 2**.
+🏦 I am Data Analyst while finishing my **Master’s in IT, with a focus on Natural Language Processing**, at Somaiya Vidyavihar University. My coursework has **pushed my GPA to 9.00, at semester 1 and 8.05 at semester 2**.
 
-Day to day, I use **Python, SQL, Excel, Tableau, and Power BI** to sift through messy real-world data, spot hidden trends, and weave those findings into clear, practical stories for the team. At the moment **I am constantly learning - deep learning and language models**, curiosity driving me to see how code can learn to read, write, and understand context the way people do.
+✍🏻 Day to day, I use **Python, SQL, Excel, Tableau, and Power BI** to sift through messy real-world data, spot hidden trends, and weave those findings into clear, practical stories for the team. At the moment **I am constantly learning - deep learning and language models**, curiosity driving me to see how code can learn to read, write, and understand context the way people do.
 
-I’m especially interested in applying these skills in impactful **domains like Healthcare, FinTech, and Mobility**. Where data can truly transform how we live, move, and make decisions.
+💼 I’m especially interested in applying these skills in impactful **domains like Healthcare, FinTech, and Mobility**. Where data can truly transform how we live, move, and make decisions.
 
-Always eager for **tough problems, hands-on side projects, and cross-functional teams**, I view every new challenge as a chance to learn something fresh and then share that learning with others.
+🔮 Always eager for **tough problems, hands-on side projects, and cross-functional teams**, I view every new challenge as a chance to learn something fresh and then share that learning with others.
 
 ---
 
 ## 📚 Skills
-- **Programming:** SQL, Python (Pandas, NumPy, Matplotlib, Seaborn)
-- **Database:** MySQL, PostgreSQL   
+
+- **Database:** MySQL, PostgreSQL  
+- **Programming:** SQL, Python (Pandas, NumPy, Matplotlib, Seaborn) 
 - **Data Tools:** Excel (Pivot Tables, Power Query), Power BI, Tableau  
-- **Machine Learning:** Scikit-learn, Regression Models, Classification, Clustering, EDA, Time Series 
+- **Machine Learning:** Scikit-learn, Regression Models, Classification, Clustering, EDA 
 - **Other:** DAX, VBA, Jupyter Notebook, GitHub, MS Power Automate  
 
 ---
