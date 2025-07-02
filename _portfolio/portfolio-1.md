@@ -1,6 +1,6 @@
 ---
 title: "London Bike Dataset Project"
-excerpt: "Changes this just now<br/><img src='/images/500x300.png'>"
+excerpt: "How can data analytics on London’s bike-sharing system inform business decisions regarding maintenance schedules, demand-based pricing, and promotional strategies ?<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 
