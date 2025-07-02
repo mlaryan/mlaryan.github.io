@@ -7,10 +7,9 @@ redirect_from:
   - /about.html
 ---
 ![Frontpage](/images/Frontpage.jpg){: .align-right width="300px"}
+🏦 I am a Data Analyst while finishing my **Master’s in IT, with a focus on Natural Language Processing**, at Somaiya Vidyavihar University, Mumbai. My coursework has **pushed my GPA to 9.00, at semester 1 and 8.05 at semester 2**.
 
-🏦 I am Data Analyst while finishing my **Master’s in IT, with a focus on Natural Language Processing**, at Somaiya Vidyavihar University. My coursework has **pushed my GPA to 9.00, at semester 1 and 8.05 at semester 2**.
-
-✍🏻 Day to day, I use **Python, SQL, Excel, Tableau, and Power BI** to sift through messy real-world data, spot hidden trends, and weave those findings into clear, practical stories. At the moment **I am constantly learning - deep learning and language models**, curiosity driving me to see how code can learn to read, write, and understand context the way people do.
+✍🏻 Day to day, I use **Python, SQL, Excel, Tableau, and Power BI** to sift through messy real-world data, spot hidden trends, and weave those findings into clear, practical stories. At the moment, **I am constantly learning - deep learning and language models**, curiosity driving me to see how code can learn to read, write, and understand context the way people do.
 
 💼 I’m interested in applying these skills in impactful **domains like Healthcare, FinTech, and Mobility**. Where data can truly transform how we live, move, and make decisions.
 
@@ -39,7 +38,7 @@ redirect_from:
 
 ## 🌍 Interests & Hobbies
 
-Outside of academics and research, I love to :
+Outside of academics and research, I love to:
 - 🌏 Travel and explore historical places  
 - 🥘 Try unique international cuisines  
 - 🪙 Collect ancient coins and antiques  
