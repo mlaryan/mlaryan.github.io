@@ -18,13 +18,18 @@ The goal is to provide valuable insights that can inform inform business decisi
 - Demand-Based Pricing (pricing strategies based on time, weather, and holiday patterns)
 - Identify periods of low usage (perform maintenance with minimal disruption to users)
 
+---
+
 ### Dataset
 - Over 17,00+ Entries
 - 11 Features : date, time, Count of bike shares, real temp, temperature feels like, humidity, wind_speed, weather_code, is_holiday, is_weekend, season
 
+---
+
 ### Tech Stack Used :
 Python (Pandas, Numpy, Matplotlib, Seaborn), Tableau, Jupyter Notebook
 
+---
 
 ### 🔍 Data Cleaning & Processing Steps [Github](https://github.com/mlaryan/London-Bike-Sharing-Dataset)
 
@@ -48,6 +53,8 @@ Python (Pandas, Numpy, Matplotlib, Seaborn), Tableau, Jupyter Notebook
 6. **EDA (Exploratory Data Analysis)**
    - Visualized trends over time
    - Plotted correlations between temperature, humidity, and bike usage.
+
+---
 
 ### Data Visualization and outcome [Tableau](https://public.tableau.com/app/profile/aryan.dhanawade7402/viz/LondonBikeShareAnalytics/D1)
 
