@@ -20,11 +20,12 @@ Always eager for **tough problems, hands-on side projects, and cross-functional 
 ---
 
 ## 📚 Skills
-
 - **Programming:** SQL, Python (Pandas, NumPy, Matplotlib, Seaborn)
-- **Data Tools** Excel (Pivot Tables, Power Query), Power BI, Tableau
-- **Database** MySQL, PostgreSQL
-- **Other:** DAX, VBA, Jupyter Notebook, GitHub, MS Power Automate
+- **Database:** MySQL, PostgreSQL   
+- **Data Tools:** Excel (Pivot Tables, Power Query), Power BI, Tableau  
+- **Machine Learning:** Scikit-learn, Regression Models, Classification, Clustering, EDA, Time Series 
+- **Other:** DAX, VBA, Jupyter Notebook, GitHub, MS Power Automate  
+
 ---
 
 ## 🎓 Courses & Specializations
