@@ -55,6 +55,8 @@ Python (Pandas, Numpy, Matplotlib, Seaborn), Tableau, Jupyter Notebook
   <img src="images/LondonBike_HourlyUsageTrends.jpg" width="600px">
 </p>
 
+![Hourly Usage Trends](./images/LondonBike_HourlyUsageTrends.jpg)
+
 - Peak Hours : Usage significantly increases around 7:00 AM (1,66,309 shares) and then again at 8:00 AM (2,087,164 shares), indicating a strong morning commute pattern. In the evening, usage at 5 PM (2,059,938 shares) and 6 PM (1,913,944 shares) is very high, suggesting another peak.
 
 - Lunch time consistency : Between 1 pm to 3 pm usage remains consistent aorund ~ 1 million
