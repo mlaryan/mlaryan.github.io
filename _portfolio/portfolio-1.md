@@ -66,3 +66,12 @@ Python (Pandas, Numpy, Matplotlib, Seaborn), Tableau, Jupyter Notebook
 
 - Consistency in Morning Troughs :  **Between 1:00 AM and 4:00 AM, the usage consistently hits very low points (around 100K shares or less)**, reinforcing the idea that these are indeed very low-demand hours.
 
+
+<img src='/images/LondonBikeUserNumbs.jpg' width="600px">
+
+- Dominant Usage in Clear Weather: **Clear weather consistently shows the highest bike** usage by a significant margin in both 2015 and 2016, **followed by Scattered Clouds**
+
+- Impact of Rain/Cloudiness: Usage drops considerably as weather conditions become less favorable. **Light Rain Shower and Cloudy conditions have the lowest usage figures**
+
+- Growth from 2015 to 2016: In most weather categories, there was an increase in bike usage from 2015 to 2016. The most **significant growth was seen in Cloudy conditions** (from 402,889 to 522,724).
+
