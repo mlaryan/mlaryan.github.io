@@ -4,7 +4,7 @@ excerpt: "How can data analytics on London’s bike-sharing system inform busine
 collection: portfolio
 ---
 
-## [Python](https://github.com/mlaryan/London-Bike-Sharing-Dataset)  |  [Tableau](https://public.tableau.com/app/profile/aryan.dhanawade7402/viz/LondonBikeShareAnalytics/D1)
+## [Github](https://github.com/mlaryan/London-Bike-Sharing-Dataset)  |  [Tableau](https://public.tableau.com/app/profile/aryan.dhanawade7402/viz/LondonBikeShareAnalytics/D1)
 
 ### Background :
 As cities increasingly focus on sustainable urban transportation, it's essential to grasp the factors that shape public bike-sharing systems. This project delves into how environmental elements like weather, humidity, and wind, along with temporal aspects such as the season, time of day, weekdays versus weekends, and holidays, influence bike usage patterns in London.
@@ -49,8 +49,8 @@ Python (Pandas, Numpy, Matplotlib, Seaborn), Tableau, Jupyter Notebook
 
 5. **Outlier Detection**
 <p align="center">
-  <img src="/images/LondonBike_outlier - Before.jpg" width="400px" style="display: inline-block; margin-right: 20px;">
-  <img src="/images/LondonBike_outlier - After.jpg" width="400px" style="display: inline-block;">
+  <img src="/images/LondonBike_outlier - Before.jpg" width="350px" style="display: inline-block;">
+  <img src="/images/LondonBike_outlier - After.jpg" width="350px" style="display: inline-block;">
 </p>
 
    - Used boxplots and statistical thresholds, IQR (Interquartile Range) to identify outliers 
