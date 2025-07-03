@@ -48,7 +48,13 @@ Python (Pandas, Numpy, Matplotlib, Seaborn), Tableau, Jupyter Notebook
    - Ensured proper types for numerical and categorical columns
 
 5. **Outlier Detection**
-   - Used boxplots and statistical thresholds, IQR (Interquartile Range) to identify outliers
+
+<p align="left">
+  <img src="/images/LondonBike_outlier - After.jpg" width="350px" style="display: inline-block; margin-right: 20px;">
+  <img src="/images/LondonBike_outlier - Before.jpg" width="3500px" style="display: inline-block;">
+</p>
+
+   - Used boxplots and statistical thresholds, IQR (Interquartile Range) to identify outliers [view data cleaning procedure.](https://github.com/mlaryan/London-Bike-Sharing-Dataset/blob/main/Data%20Cleaning%20and%20EDA.ipynb)
 
 6. **EDA (Exploratory Data Analysis)**
    - Visualized trends over time
