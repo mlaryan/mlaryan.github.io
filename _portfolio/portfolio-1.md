@@ -113,13 +113,8 @@ Python (Pandas, Numpy, Matplotlib, Seaborn), Tableau, Jupyter Notebook
 
 ### Conclusion :
 -  Key operational insight suggests, clearly that bike usage is **heavily influenced by temporal and environmental factors** - with peak activity during weekday commute hours and under clear weather conditions.
-
-#### By Dissecting over 17,000+ entries :
 - Commuting Behavior: Consistent peaks at 7–9 AM and 5–6 PM reaffirm the role in work-related travel, fortifying the **need for optimal bike availability during these windows.**
-
 - Low-usage periods (1–4 AM) present **ideal windows for maintenance with minimal disruption.**
-
-##### Actionable outcomes :
 - Launch **targeted promotions for weekends & holidays** to boost leisure usage.
 - Can **implement demand based pricing** and rebalancing course of action tied to time-of-day and weather forecasts.
 
