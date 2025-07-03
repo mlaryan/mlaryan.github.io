@@ -102,3 +102,9 @@ Python (Pandas, Numpy, Matplotlib, Seaborn), Tableau, Jupyter Notebook
 💡 Higher humidity is often associated with physical discomfort. leads to lower rider engagement - Sending weather-based alerts or discounts to encourage usage on humid days.
 
 - **Bike usage drops significantly at higher wind speeds.** Peak usage around 20 km/h → Avg. count ≈ 1,361; Drops to 483 at 50 km/h wind speed. 💡 Apps can advise riders about expected wind conditions.
+
+---
+
+<img src='/images/London_Weekend-weekday.png.jpg' width="800px">
+
+- Following chart suggests that the service is primiraly primarily used for daily commuting (e.g., work or school) rather than for leisure purposes. Resulting highest usage on weekdays. 💡 Holiday-specific promotions could help boost ridership on days when usage drop. 
