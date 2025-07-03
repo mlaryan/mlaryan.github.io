@@ -47,14 +47,13 @@ Python (Pandas, Numpy, Matplotlib, Seaborn), Tableau, Jupyter Notebook
 4. **Data Type Conversion**
    - Ensured proper types for numerical and categorical columns
 
-5. **Outlier Detection**
+5. **Outlier Detection**   [view data cleaning procedure.](https://github.com/mlaryan/London-Bike-Sharing-Dataset/blob/main/Data%20Cleaning%20and%20EDA.ipynb)
 <p align="center">
   <img src="/images/LondonBike_outlier - Before.jpg" width="350px" style="display: inline-block;">
   <img src="/images/LondonBike_outlier - After.jpg" width="350px" style="display: inline-block;">
 </p>
 
-   - Used boxplots and statistical thresholds, IQR (Interquartile Range) to identify outliers 
-   [view data cleaning procedure.](https://github.com/mlaryan/London-Bike-Sharing-Dataset/blob/main/Data%20Cleaning%20and%20EDA.ipynb)
+   - Used boxplots and statistical thresholds, IQR (Interquartile Range) to identify outliers
 
 6. **EDA (Exploratory Data Analysis)**
    - Visualized trends over time
