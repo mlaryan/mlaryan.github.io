@@ -60,17 +60,17 @@ Python (Pandas, Numpy, Matplotlib, Seaborn), Tableau, Jupyter Notebook
 
 <img src='/images/LondonBike_HourlyUsageTrends.jpg' width="800px">
 
-- Peak Hours : Usage significantly **increases around 7:00 AM (1,66,309 shares) and then again at 8:00 AM (2,087,164 shares)**, indicating a strong morning commute pattern. In the evening, usage at **5 PM (2,059,938 shares) and 6 PM (1,913,944 shares) is very high**, suggesting another peak.
+- Peak Hours : Usage significantly **increases around 7:00 AM (1.6M shares) and again at 8:00 AM (2 shares)**, indicating a strong morning commute pattern. In the evening, usage at **5 PM (2M shares) and 6 PM (1.9M shares) is very high**, suggesting another peak. 
 
-- Lunch time consistency : **Between 1 pm to 3 pm usage remains consistent around ~ 1 million**
+- Lunch time consistency : **Between 1 pm to 3 pm usage remains consistent around ~ 1 million**, By identifying peak and off-peak hours, we can ensure bikes are available when demand is highest
 
-- Consistency in Morning Troughs :  **Between 1:00 AM and 4:00 AM, the usage consistently hits very low points (around 100K shares or less)**, reinforcing the idea that these are indeed very low-demand hours.
+- Consistency in Morning Troughs : **Between 1:00 AM and 4:00 AM, the usage hits very low points (around 100K shares)**, schedule maintenance during low-traffic periods (like 1 AM to 4 AM) to minimize service disruption
 
 <img src='/images/LondonBikeUserNumbs.jpg' width="500px" height="400px">
 
-- Dominant Usage in Clear Weather: **Clear weather consistently shows the highest bike** usage by a significant margin in both 2015 and 2016, **followed by Scattered Clouds**
+- Dominant Usage in Clear Weather: **Clear weather consistently shows the highest bike** usage by a significant margin in both 2015 and 2016, **followed by Scattered Clouds**. More clear-weather days = more demand.
 
-- Impact of Rain/Cloudiness: Usage drops considerably as weather conditions become less favorable. **Light Rain Shower and Cloudy conditions have the lowest usage figures**
+- Impact of Rain/Cloudiness: **Light Rain Shower and Cloudy conditions have the lowest usage figures**. Targeted campaigns can be run to encourage rides during "less favorable but still manageable" weather
 
 - Growth from 2015 to 2016: In most weather categories, there was an increase in bike usage from 2015 to 2016. The most **significant growth was seen in Cloudy conditions** (from 402,889 to 522,724).
 
