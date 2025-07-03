@@ -53,7 +53,8 @@ Python (Pandas, Numpy, Matplotlib, Seaborn), Tableau, Jupyter Notebook
   <img src="/images/LondonBike_outlier - After.jpg" width="400px" style="display: inline-block;">
 </p>
 
-   - Used boxplots and statistical thresholds, IQR (Interquartile Range) to identify outliers [view data cleaning procedure.](https://github.com/mlaryan/London-Bike-Sharing-Dataset/blob/main/Data%20Cleaning%20and%20EDA.ipynb)
+   - Used boxplots and statistical thresholds, IQR (Interquartile Range) to identify outliers 
+   [view data cleaning procedure.](https://github.com/mlaryan/London-Bike-Sharing-Dataset/blob/main/Data%20Cleaning%20and%20EDA.ipynb)
 
 6. **EDA (Exploratory Data Analysis)**
    - Visualized trends over time
