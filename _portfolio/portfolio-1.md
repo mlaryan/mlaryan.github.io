@@ -62,9 +62,13 @@ Python (Pandas, Numpy, Matplotlib, Seaborn), Tableau, Jupyter Notebook
 
 - Grand total of all bike shares: **19,868,292**
 
+---
+
 <img src="/images/LondonBike_Each month count.jpg" width="500px">
 
 - Total bike shares per month, aggregated over all years. 💡 Helps answer business questions like: "In which months should we increase bike availability or maintenance workforce ?"
+
+---
 
 <img src='/images/LondonBike_HourlyUsageTrends.jpg' width="800px">
 
@@ -74,6 +78,8 @@ Python (Pandas, Numpy, Matplotlib, Seaborn), Tableau, Jupyter Notebook
 
 - Consistency in Morning Troughs : **Between 1:00 AM and 4:00 AM, the usage hits very low points (around 100K shares)**, 💡 schedule maintenance during low-traffic periods (like 1 AM to 4 AM) to minimize service disruption.
 
+---
+
 <img src='/images/LondonBikeUserNumbs.jpg' width="500px" height="400px">
 
 - Dominant Usage in Clear Weather: **Clear weather consistently shows the highest bike** usage by a significant margin in both 2015 and 2016, **followed by Scattered Clouds**. More clear-weather days = more demand.
@@ -82,6 +88,8 @@ Python (Pandas, Numpy, Matplotlib, Seaborn), Tableau, Jupyter Notebook
 
 - Growth from 2015 to 2016: In most weather categories, there was an increase in bike usage from 2015 to 2016. The most **significant growth was seen in Cloudy conditions** (from 402,889 to 522,724).
 
+---
+
 <img src='/images/LondBike_Humidity & Wind Speed.jpg' width="800px">
 
 - **As humidity increases, the average bike count decreases significantly** At 40% humidity → Avg. count ≈ 1,944; At 100% humidity → Avg. count ≈ 726
@@ -89,6 +97,3 @@ Python (Pandas, Numpy, Matplotlib, Seaborn), Tableau, Jupyter Notebook
 💡 Higher humidity is often associated with physical discomfort. leads to lower rider engagement - Sending weather-based alerts or discounts to encourage usage on humid days.
 
 - **Bike usage drops significantly at higher wind speeds.** Peak usage around 20 km/h → Avg. count ≈ 1,361; Drops to 483 at 50 km/h wind speed. 💡 Apps can advise riders about expected wind conditions.
-
-<img src='images/LondBikeForecast.jpg' width="800px">
-
