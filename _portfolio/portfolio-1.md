@@ -4,7 +4,7 @@ excerpt: "How can data analytics on London’s bike-sharing system inform busine
 collection: portfolio
 ---
 
-## [Github](https://github.com/mlaryan/London-Bike-Sharing-Dataset) [Tableau](https://public.tableau.com/app/profile/aryan.dhanawade7402/viz/LondonBikeShareAnalytics/D1)
+## [Python Code](https://github.com/mlaryan/London-Bike-Sharing-Dataset) [Tableau](https://public.tableau.com/app/profile/aryan.dhanawade7402/viz/LondonBikeShareAnalytics/D1)
 
 ### Background :
 As cities increasingly focus on sustainable urban transportation, it's essential to grasp the factors that shape public bike-sharing systems. This project delves into how environmental elements like weather, humidity, and wind, along with temporal aspects such as the season, time of day, weekdays versus weekends, and holidays, influence bike usage patterns in London.
@@ -58,6 +58,14 @@ Python (Pandas, Numpy, Matplotlib, Seaborn), Tableau, Jupyter Notebook
 
 ### Data Visualization and outcome [Tableau](https://public.tableau.com/app/profile/aryan.dhanawade7402/viz/LondonBikeShareAnalytics/D1)
 
+<img src="/images/KPI.jpg" width="300px">
+
+- Grand total of all bike shares: **19,868,292**
+
+<img src="/images/LondonBike_Each month count.jpg" width="500px">
+
+- Total bike shares per month, aggregated over all years. 💡 Helps answer business questions like: "In which months should we increase bike availability or maintenance workforce ?"
+
 <img src='/images/LondonBike_HourlyUsageTrends.jpg' width="800px">
 
 - Peak Hours : Usage significantly **increases around 7:00 AM (1.6M shares) and again at 8:00 AM (2 shares)**, indicating a strong morning commute pattern. In the evening, usage at **5 PM (2M shares) and 6 PM (1.9M shares) is very high**, suggesting another peak. 
@@ -81,4 +89,6 @@ Python (Pandas, Numpy, Matplotlib, Seaborn), Tableau, Jupyter Notebook
 💡 Higher humidity is often associated with physical discomfort. leads to lower rider engagement - Sending weather-based alerts or discounts to encourage usage on humid days.
 
 - **Bike usage drops significantly at higher wind speeds.** Peak usage around 20 km/h → Avg. count ≈ 1,361; Drops to 483 at 50 km/h wind speed. 💡 Apps can advise riders about expected wind conditions.
+
+<img src='images/LondBikeForecast.jpg' width="800px">
 
