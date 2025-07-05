@@ -21,7 +21,7 @@ The goal is to provide valuable insights that can inform inform business decisi
 ---
 
 ### Dataset
-- Over 17,00+ Entries
+- Over 17,000+ Entries
 - 11 Features : date, time, Count of bike shares, real temp, temperature feels like, humidity, wind_speed, weather_code, is_holiday, is_weekend, season
 
 ---
