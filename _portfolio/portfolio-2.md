@@ -1,6 +1,6 @@
 ---
 title: "Product & Store Analytics – Toy Retail Sector"
-excerpt: "Processed and visualized sales, profit, and inventory data of a multi-store toy business in Mexico to uncover product trends, pricing strategies, and stock inefficiencies using Python and Power BI.<br/><img src='/images/500x300.png'>"
+excerpt: "Processed and visualized sales, profit, and inventory data of a multi-store toy business in Mexico to uncover product trends, pricing strategies, and stock inefficiencies using Python and Power BI.<br/><img src='/images/ToySales_Dashboard.jpg.png'>"
 collection: portfolio
 ---
 
