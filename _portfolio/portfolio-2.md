@@ -59,3 +59,11 @@ Python (Pandas, Numpy, Matplotlib, Seaborn), Power BI, Jupyter Notebook
 - 27.79% Profit Margin
 - 4.01M in Profit
 
+---
+
+<p align="center">
+  <img src="/images/LondonBike_outlier - Before.jpg" width="350px" style="display: inline-block;">
+  <img src="/images/LondonBike_outlier - After.jpg" width="350px" style="display: inline-block;">
+</p>
+
+- Added 2 slicers to filter by date (year/quarter) and store name.
