@@ -62,8 +62,8 @@ Python (Pandas, Numpy, Matplotlib, Seaborn), Power BI, Jupyter Notebook
 ---
 
 <p align="center">
-  <img src="/images/LondonBike_outlier - Before.jpg" width="350px" style="display: inline-block;">
-  <img src="/images/LondonBike_outlier - After.jpg" width="350px" style="display: inline-block;">
+  <img src="/images/Slicer1.jpg" width="350px" style="display: inline-block;">
+  <img src="/images/Slicer2.jpg" width="350px" style="display: inline-block;">
 </p>
 
 - Added 2 slicers to filter by **date (year/quarter) and store name.**
