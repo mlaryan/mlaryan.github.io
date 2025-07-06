@@ -1,5 +1,5 @@
 ---
-title: "Product & Store Analytics – Toy Retail Sector"
+title: "Toy Products & Store Analytics – Toy Retail Sector"
 excerpt: "Processed and visualized sales, profit, and inventory data of a multi-store toy business in Mexico to uncover product trends, pricing strategies, and stock inefficiencies using Python and Power BI.<br/><img src='/images/ToySales_Dashboard.jpg'  style='width: 51%; height: auto;  margin-top: 10px;'/>"
 collection: portfolio
 ---
@@ -36,6 +36,7 @@ Python (Pandas, Numpy, Matplotlib, Seaborn), Power BI, Jupyter Notebook
 - Imported the dataset using **Pandas**
 - Used `.info()`, `.describe()`, and `.isnull().sum()` to understand the structure, data types, and missing values
 - Detected some **outliers** in the data (through visualization) — but chose to **retain them** as they might reflect real-world business cases or exceptional events
+- Handled nulls and type mismatches, particularly in Date columns
 - Corrected the **Date column's datatype** for proper time-based analysis
 
 ### Insights:
