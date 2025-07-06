@@ -50,7 +50,7 @@ Python (Pandas, Numpy, Matplotlib, Seaborn), Power BI, Jupyter Notebook
 
 ---- 
 
-<img src="/images/ToySales_KPI.jpg" width="500px">
+<img src="/images/ToySales_KKPPI.jpg" width="500px">
 
 - 1M Units Sold
 - 14.44M in Sales
