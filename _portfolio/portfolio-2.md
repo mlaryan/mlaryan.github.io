@@ -40,3 +40,22 @@ Python (Pandas, Numpy, Matplotlib, Seaborn), Power BI, Jupyter Notebook
 - Corrected the **Date column's datatype** for proper time-based analysis
 
 ### Insights:
+
+<img src="/images/ToySales_Table.jpg" width="500px">
+
+- Products with Profit Margin > 25% are marked as "High" Profit Status, else Low
+- Lego Bricks, Magic Sand, Animal figure need attention — they have high costs but low returns
+- Colorbuds and Action Figure show excellent performance — high profit and high margin.
+- Helps identify which products are cost-effective and which ones are draining profit.
+
+---- 
+
+<img src="/images/ToySales_KPI.jpg" width="500px">
+
+- 1M Units Sold
+- 14.44M in Sales
+- 30K Units in Stock
+- 10.43M in Total Cost
+- 27.79% Profit Margin
+- 4.01M in Profit
+
