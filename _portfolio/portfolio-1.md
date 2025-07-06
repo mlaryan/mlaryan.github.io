@@ -1,6 +1,6 @@
 ---
 title: "Operational Insights from London’s Bike Sharing Data"
-excerpt: "How can data analytics on London’s bike-sharing system inform business decisions regarding maintenance schedules, demand-based pricing, and promotional strategies ? <br/><img src='/images/London_cover.png'>"
+excerpt: "How can data analytics on London’s bike-sharing system inform business decisions regarding maintenance schedules, demand-based pricing, and promotional strategies ? <br/><img src='/images/London_cover.png' margin-top: 10px;'/>"
 collection: portfolio
 ---
 
