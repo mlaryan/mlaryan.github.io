@@ -43,9 +43,9 @@ Python (Pandas, Numpy, Matplotlib, Seaborn), Power BI, Jupyter Notebook
 
 <img src="/images/ToySales_Table.jpg" width="500px">
 
-- Products with Profit Margin > 25% are marked as "High" Profit Status, else Low
-- Lego Bricks, Magic Sand, Animal figure need attention — they have high costs but low returns
-- Colorbuds and Action Figure show excellent performance — high profit and high margin.
+- Products with Profit Margin > 25% are marked as **"High" Profit Status, else "Low"**
+- **Lego Bricks, Magic Sand, Animal figure** need attention — they have **high costs but low returns**
+- **Colorbuds and Action Figure** show excellent performance — **high profit and high margin.**
 - Helps identify which products are cost-effective and which ones are draining profit.
 
 ---- 
@@ -66,4 +66,4 @@ Python (Pandas, Numpy, Matplotlib, Seaborn), Power BI, Jupyter Notebook
   <img src="/images/LondonBike_outlier - After.jpg" width="350px" style="display: inline-block;">
 </p>
 
-- Added 2 slicers to filter by date (year/quarter) and store name.
+- Added 2 slicers to filter by **date (year/quarter) and store name.**
