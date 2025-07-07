@@ -6,7 +6,7 @@ collection: portfolio
 
 ## [Github](https://github.com/mlaryan/Toy-Retail-Analytics-Dashboard) 
 
-<img src='/images/ToySales_Dashboard.jpg'>
+<img src='/images/ToySales_NewDashboard.jpg'>
 
 
 ### Background:
@@ -42,7 +42,7 @@ Python (Pandas, Numpy, Matplotlib, Seaborn), Power BI, Jupyter Notebook
 
 ### Insights:
 
-<img src="/images/ToySales_Table.jpg" width="500px">
+<img src='/images/ToySales_Dashboard.jpg'>
 
 - Products with Profit Margin > 25% are marked as **"High" Profit Status, else "Low"**
 - **Lego Bricks, Magic Sand, Animal figure** need attention — they have **high costs but low returns**
