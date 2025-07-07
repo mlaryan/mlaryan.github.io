@@ -53,12 +53,12 @@ Python (Pandas, Numpy, Matplotlib, Seaborn), Power BI, Jupyter Notebook
 
 <img src="/images/ToySales_KKPPI.jpg" width="500px">
 
-- 1M Units Sold
-- 14.44M in Sales
+- $1M Units Sold
+- $14.44M in Sales
 - 30K Units in Stock
-- 10.43M in Total Cost
+- $10.43M in Total Cost
 - 27.79% Profit Margin
-- 4.01M in Profit
+- $4.01M in Profit
 
 ---
 
@@ -82,7 +82,7 @@ Python (Pandas, Numpy, Matplotlib, Seaborn), Power BI, Jupyter Notebook
 
 - 💡 Visual shows stock vs profit per store.
 - Helps spot **high-stock but low-profit stores** for potential inventory redistribution.
-- **Tooltip gives store name, stock on hand, and profit** —e.g., Puebla has 1,328 units in stock and ₹2.29L profit.
+- **Tooltip gives store name, stock on hand, and profit** —e.g., Puebla has 1,328 units in stock and $2.29L profit.
 
 ---
 
