@@ -99,4 +99,7 @@ Python (Pandas, Numpy, Matplotlib, Seaborn), Power BI, Jupyter Notebook
   <img src="/images/ToysSales_SalesAndProfit by Store Name2.png" height="300px" />
 </p>
 
-- 
+- Ciudad de Mexico leads in **absolute sales and profit.** Monterrey shows high with a strong **profit margin of 27.48%.**
+-  Guadalajara shows **high sales but a proportionally lower profit margin.**
+- Locations like Pachuca and Oaxaca are identified as **low-volume contributors**, requiring strategic review.
+
