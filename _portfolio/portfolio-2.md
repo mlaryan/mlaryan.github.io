@@ -95,8 +95,8 @@ Python (Pandas, Numpy, Matplotlib, Seaborn), Power BI, Jupyter Notebook
 ---
 
 <p align="center">
-  <img src="/images/ToysSales_SalesAndProfit by Store Name1.png" width="45%" />
-  <img src="/images/ToysSales_SalesAndProfit by Store Name2.png" width="45%" />
+  <img src="/images/ToysSales_SalesAndProfit by Store Name1.png" height="300px" />
+  <img src="/images/ToysSales_SalesAndProfit by Store Name2.png" height="300px" />
 </p>
 
 - 
