@@ -70,7 +70,7 @@ Python (Pandas, Numpy, Matplotlib, Seaborn), Power BI, Jupyter Notebook
 - Added 2 slicers to filter by **date (year/quarter) and store name.**
 
 ---
-<img src="/images/StockAndTotalProfit_By Product.png" width="500px">
+<img src="/images/StockAndTotalProfit_By Product.png" width="45%">
 
 - We can **identify overstocked low-margin items** like Lego for key decisions
 - Visual compares stock levels vs profit margin for each product.
@@ -78,7 +78,7 @@ Python (Pandas, Numpy, Matplotlib, Seaborn), Power BI, Jupyter Notebook
 
 ----
 
-<img src="/images/StockAndTotalProfit_By Store.png" width="500px">
+<img src="/images/StockAndTotalProfit_By Store.png" width="45%">
 
 - Visual shows stock vs profit per store.
 - Helps spot **high-stock but low-profit stores** for potential inventory redistribution.
