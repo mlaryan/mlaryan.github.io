@@ -79,9 +79,21 @@ Python (Pandas, Numpy, Matplotlib, Seaborn), Power BI, Jupyter Notebook
 ----
 
 <img src="/images/StockAndTotalProfit_By Store.png" width="500px">
+
 - Visual shows stock vs profit per store.
-- Helps spot high-stock but low-profit stores for potential inventory redistribution.
-- Tooltip gives store name, stock on hand, and profit—e.g., Puebla has 1,328 units in stock and ₹2.29L profit.
+- Helps spot **high-stock but low-profit stores** for potential inventory redistribution.
+- **Tooltip gives store name, stock on hand, and profit** —e.g., Puebla has 1,328 units in stock and ₹2.29L profit.
 
 ---
 
+<img src="/images/ToySales_Piechart.png" width="500px">
+
+- The chart breaks down total sales by product category, showing each category's contribution to the whole.
+- Toys account for 35% of sales, with a profit of $1 million.
+- The lowest is Sports & Outdoors, contributing 15.04% of sales with a profit of $500K.
+
+---
+
+<img src="/images/ToySales_Piechart.png" width="500px">
+
+- 
