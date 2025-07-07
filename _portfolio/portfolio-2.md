@@ -99,7 +99,13 @@ Python (Pandas, Numpy, Matplotlib, Seaborn), Power BI, Jupyter Notebook
   <img src="/images/ToysSales_SalesAndProfit by Store Name2.png" width="45%" />
 </p>
 
-- Ciudad de Mexico leads in **absolute sales and profit.** Monterrey shows high with a strong **profit margin of 27.48%.**
+- Ciudad de Mexico, Hermosillo, Mexicali leads in **absolute sales and profit.** Monterrey shows high with a strong **profit margin of more than 27.48%.**
 -  Guadalajara shows **high sales but a proportionally lower profit margin.**
-- Locations like Pachuca and Oaxaca are identified as **low-volume contributors**, requiring strategic review.
+- Locations like Pachuca, Oaxaca, Chetumal, Aguascalientes  are identified as **low-volume contributors**, requiring strategic review.
+
+### Conclusion:
+
+The analysis revealed strong performers like Colorbuds and Action Figures, while products like Lego Bricks had high stock but low returns. Cities such as Monterrey and CDMX led in profit, whereas others like Oaxaca and Aguascalientes underperformed.
+
+Key actions include redistributing excess stock, promoting high-margin items, optimizing store-specific inventory, and reviewing pricing and stocking strategies for underperforming regions.
 
