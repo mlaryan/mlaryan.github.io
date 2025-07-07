@@ -26,7 +26,7 @@ To understand:
 
 ### Dataset:
 
-<img src='/images/ToySales_DataModeling.jpg' width="45%">
+<img src='/images/ToySales_DataModeling.jpg' width="60%">
 
 ### Tech Stack Used:
 
