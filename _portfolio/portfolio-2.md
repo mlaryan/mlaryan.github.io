@@ -26,7 +26,7 @@ To understand:
 
 ### Dataset:
 
-<img src='/images/ToySales_DataModeling.jpg' width="800px">
+<img src='/images/ToySales_DataModeling.jpg' width="45%">
 
 ### Tech Stack Used:
 
@@ -47,7 +47,7 @@ Python (Pandas, Numpy, Matplotlib, Seaborn), Power BI, Jupyter Notebook
 - Products with Profit Margin > 25% are marked as **"High" Profit Status, else "Low"**
 - **Lego Bricks, Magic Sand, Animal figure** need attention — they have **high costs but low returns**
 - **Colorbuds and Action Figure** show excellent performance — **high profit and high margin.**
-- Helps identify which products are cost-effective and which ones are draining profit.
+- 💡 Helps identify which products are cost-effective and which ones are draining profit and adjust the stock level accordingly.
 
 ---- 
 
@@ -67,20 +67,20 @@ Python (Pandas, Numpy, Matplotlib, Seaborn), Power BI, Jupyter Notebook
   <img src="/images/Slicer2.jpg" width="120px" style="display: inline-block;">
 </p>
 
-- Added 2 slicers to filter by **date (year/quarter) and store name.**
+- 💡 Added 2 slicers to filter by **date (year/quarter) and store name.**
 
 ---
 <img src="/images/StockAndTotalProfit_By Product.png" width="45%">
 
 - We can **identify overstocked low-margin items** like Lego for key decisions
-- Visual compares stock levels vs profit margin for each product.
+- 💡 Visual compares stock levels vs profit margin for each product.
 - Hover tooltip shows key details: **product name, stock, margin, and category.**
 
 ----
 
 <img src="/images/StockAndTotalProfit_By Store.png" width="45%">
 
-- Visual shows stock vs profit per store.
+- 💡 Visual shows stock vs profit per store.
 - Helps spot **high-stock but low-profit stores** for potential inventory redistribution.
 - **Tooltip gives store name, stock on hand, and profit** —e.g., Puebla has 1,328 units in stock and ₹2.29L profit.
 
@@ -89,8 +89,8 @@ Python (Pandas, Numpy, Matplotlib, Seaborn), Power BI, Jupyter Notebook
 <img src="/images/ToySales_Piechart.png" width="500px">
 
 - The chart breaks down total sales by product category, showing each category's contribution to the whole.
-- Toys account for 35% of sales, with a profit of $1 million.
-- The lowest is Sports & Outdoors, contributing 15.04% of sales with a profit of $500K.
+- Toys account for **35% of sales, with a profit of $1 million.**
+- The lowest is Sports & Outdoors, **contributing 15.04% of sales with a profit of $500K.**
 
 ---
 
