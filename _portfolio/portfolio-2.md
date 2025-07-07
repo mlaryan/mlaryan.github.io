@@ -95,8 +95,8 @@ Python (Pandas, Numpy, Matplotlib, Seaborn), Power BI, Jupyter Notebook
 ---
 
 <p align="center">
-  <img src="/images/ToysSales_SalesAndProfit by Store Name1.png" width="400px" height="300px" style="display: inline-block;">
-  <img src="/images/ToysSales_SalesAndProfit by Store Name2.png" width="400px" height="300px" style="display: inline-block;">
+  <img src="/images/ToysSales_SalesAndProfit by Store Name1.png" width="45%" />
+  <img src="/images/ToysSales_SalesAndProfit by Store Name2.png" width="45%" />
 </p>
 
 - Ciudad de Mexico leads in **absolute sales and profit.** Monterrey shows high with a strong **profit margin of 27.48%.**
