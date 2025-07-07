@@ -94,6 +94,9 @@ Python (Pandas, Numpy, Matplotlib, Seaborn), Power BI, Jupyter Notebook
 
 ---
 
-<img src="/images/ToySales_Piechart.png" width="500px">
+<p align="center">
+  <img src="/images/ToysSales_SalesAndProfit by Store Name1.png" width="400px" style="display: inline-block;">
+  <img src="/images/ToysSales_SalesAndProfit by Store Name2.png" width="400px" style="display: inline-block;">
+</p>
 
 - 
