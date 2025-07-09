@@ -77,37 +77,64 @@ Python (Pandas, Numpy, Matplotlib, Seaborn), Tableau, Jupyter Notebook
 
 <img src='/images/LondonBike_HourlyUsageTrends.jpg' width="800px">
 
-- Peak Hours : Usage significantly **increases around 7:00 AM (1.6M shares) and again at 8:00 AM (2 shares)**, indicating a strong morning commute pattern. In the evening, usage at **5 PM (2M shares) and 6 PM (1.9M shares) is very high**, suggesting another peak. 
+- Morning Peak (7–8 AM) :
+🚴 1.6M–2M shares
+💡 Ensure max bike availability for commuters.
 
-- Lunch time consistency : **Between 1 pm to 3 pm usage remains consistent around ~ 1 million**,💡 By identifying peak and off-peak hours, we can ensure bikes are available when demand is highest
+- Evening Peak (5–6 PM):
+🚴 1.9M–2M shares
+💡 Rebalance fleet ahead of evening rush, ensure max bike availability for commuters.
 
-- Consistency in Morning Troughs : **Between 1:00 AM and 4:00 AM, the usage hits very low points (around 100K shares)**, 💡 schedule maintenance during low-traffic periods (like 1 AM to 4 AM) to minimize service disruption.
+- Lunch Time Steady Demand (1–3 PM):
+🚴 ~1M shares
+💡 Maintain moderate supply during mid-day hours.
+
+- Early Morning Lows (1–4 AM):
+🚴 ~100K shares
+💡 Schedule maintenance during low-traffic periods, to minimize the service disruption.
 
 ---
 
 <img src='/images/LondonBikeUserNumbs.jpg' width="500px" height="400px">
 
-- Dominant Usage in Clear Weather: **Clear weather consistently shows the highest bike** usage by a significant margin in both 2015 and 2016, **followed by Scattered Clouds**. More clear-weather days = more demand.
+- Clear Weather = High Demand:
+🌤 Highest usage in both 2015 & 2016
+💡Boost fleet and promotions on clear days.
 
-- Impact of Rain/Cloudiness: **Light Rain Shower and Cloudy conditions have the lowest usage figures**. 💡 Targeted campaigns can be run to encourage rides during "less favorable but still manageable" weather
+- Low Usage in Rain/Clouds:
+🌧 Lowest in Light Rain & Cloudy
+💡Run campaigns to boost ridership in mild bad weather.
 
-- Growth from 2015 to 2016: In most weather categories, there was an increase in bike usage from 2015 to 2016. The most **significant growth was seen in Cloudy conditions** (from 402,889 to 522,724).
+- Year-on-Year Growth (2015→2016):
+☁ Cloudy: +30% (from 402K to 523K)
+💡 Monitor & support growing demand in less favorable weather.
 
 ---
 
 <img src='/images/LondBike_Humidity & Wind Speed.jpg' width="800px">
 
-- **As humidity increases, the average bike count decreases significantly** At 40% humidity → Avg. count ≈ 1,944; At 100% humidity → Avg. count ≈ 726
 
-💡 Higher humidity is often associated with physical discomfort. leads to lower rider engagement - Sending weather-based alerts or discounts to encourage usage on humid days.
+- High Humidity = Low Usage:
+💧 40% → Avg. 1,944 rides
+💧 100% → Avg. 726 rides (Bike usage drops by ~62.6%)
+💡 Send alerts/discounts to boost ridership on humid days.
 
-- **Bike usage drops significantly at higher wind speeds.** Peak usage around 20 km/h → Avg. count ≈ 1,361; Drops to 483 at 50 km/h wind speed. 💡 Apps can advise riders about expected wind conditions.
+Strong Winds Reduce Usage:
+🌬 20 km/h → Avg. 1,361 rides
+🌬 50 km/h → Avg. 483 rides ( Bike usage drops by approximately 64.5%)
+💡 Integrate wind condition tips into rider app notifications, can avoide accidents or any tragedy.
 
 ---
 
 <img src='/images/London_Weekend-weekday.png.jpg' width="800px">
 
-- Following chart suggests that the service is primiraly primarily used for daily commuting (e.g., work or school) rather than for leisure purposes. Resulting highest usage on weekdays. 💡 Holiday-specific promotions could help boost ridership on days when usage drop. 
+- Weekday = Peak Usage (Commute-Focused):
+📅 Highest rides occur on weekdays (work/school commutes)
+💡 Maintain high bike availability during weekdays.
+
+- Lower Usage on Holidays/Weekends:
+📉 Notable drop in non-working days
+💡 Launch holiday-specific promotions to boost leisure ridership
 
 ----
 
