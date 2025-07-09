@@ -4,7 +4,7 @@ excerpt: "Processed and visualized sales, profit, and inventory data of a multi-
 collection: portfolio
 ---
 
-## [Github](https://github.com/mlaryan/Toy-Retail-Analytics-Dashboard) 
+## [Github](https://github.com/mlaryan/Toy-Sales-Analytics-Dashboard) | [Power BI](https://github.com/mlaryan/Toy-Sales-Analytics-Dashboard/tree/main/Power%20BI%20file)
 
 <img src='/images/ToySales_NewDashboard.jpg'>
 
