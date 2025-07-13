@@ -1,6 +1,6 @@
 ---
 title: "Credit Card Data : Exploratory Data Analysis using Python"
-excerpt: "Performing an in-depth exploratory data analysis (EDA) of a credit card customer dataset using Python. The goal is to uncover meaningful patterns, demographic trends, behavioral insights, and potential business opportunities to aid in customer profiling, segmentation, and financial decision-making.<br/><img src='/images/500x300.png'>"
+excerpt: "Performing an in-depth exploratory data analysis (EDA) of a credit card customer dataset using Python. The goal is to uncover meaningful patterns, demographic trends, behavioral insights, and potential business opportunities to aid in customer profiling, segmentation, and financial decision-making.<br/><img src='/images/CreditCardCover.png'>"
 collection: portfolio
 ---
 
