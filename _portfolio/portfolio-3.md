@@ -19,7 +19,7 @@ To perform an in-depth exploratory data analysis (EDA) of a credit card customer
 
 <p align="center">
   <img src="/images/CreditCard_Customer.png" width="350px" style="display: inline-block;">
-  <img src="/images/CreditCard_Credit.png" width="360px" style="display: inline-block;">
+  <img src="/images/CreditCard_Credit.png" width="380px" style="display: inline-block;">
 </p>
 
 
@@ -31,8 +31,46 @@ To perform an in-depth exploratory data analysis (EDA) of a credit card customer
 
 ###  Insights from Credit Card Dataset:
 
+ <img src='/images/CreditCard_Histogram.png' width="600px">
+
+- "Swipe" method is by far the most common transaction type,  **approximately 7,000 transactions**
+- Blue: Overwhelming majority, **~9,000 cards.** Gold: Very rare, **<50 cards.**
+- Bills: Most frequent, **~3,000 occurrences**. Entertainment & Fuel: Significant, **~2,000 and ~1,700 transactions**
 
 ---
+
+<img src='/images/CreditCard_ScatterPlots.png' width="600px">
+
+- Total Trans Amount vs Credit Limit : No strong linear correlation; transaction **amounts are spread across limits.**
+- Total Trans Amount vs Total Trans Volume: As Total_Trans_Amount increases, **Total_Trans_Vol increases proportionally, showing some clustered steps.**
+- Annual Fees vs Credit Limit: No clear linear correlation; **high credit limits can have low fees, and vice-versa.**
+
+---
+
+<img src='/images/CreditCard_LineSchart.png' width="600px">
+
+Here are 2-line insights for each plot:
+
+- Customer_Acq_Cost: Peaks April-May (~100), lowest March/late year (~95), **showing seasonality.**
+
+- Annual_Fees: **Highs in March-April (~305-310)**, lows in early/late year (~280-285).
+
+- Credit_Limit: Highest July-Aug (>9500), lowest March-April/Sept-Oct (7500-8000); **increases mid-year.**
+
+- Total_Trans_Amt: Peaks July (~4800), lowest April/Oct (4100-4200), **reflecting mid-year spending increase.**
+
+- Total_Trans_Vol: Mirrors amount: peaks July (~67), **lowest March-April/Sept-Oct (~62.5-63).**
+
+- Interest_Earned: Highest July-Aug (~875-880), lowest March-April/Oct-Nov (700-750), **spiking with mid-year activity.**
+
+
+---
+
+<img src='/images/CreditCard_LineSchart.png' width="600px">
+
+
+---
+
 
 ###  Insights from Customer Dataset:
 
