@@ -37,6 +37,8 @@ To perform an in-depth exploratory data analysis (EDA) of a credit card customer
 
 ---
 
+**Extreme values (outliers) were kept because they likely reflect legitimate, unique customer segments (e.g., high spenders, premium cardholders) within the credit card data, providing valuable information**
+
  <img src='/images/CreditCard_Boxplot1.png' width="600px">
 
 - Credit_Limit: Median ~$5k-$6k, IQR ~$2.5k-$11k. Outliers extend to $35k, **representing high-tier credit access.**
