@@ -52,7 +52,7 @@ Use Chip, Exp Type, Interest_Earned, Delinquent_Acc, Date, Month, Day, Month_Nam
 
 ---
 
-<img src='/images/CreditCard_Insights.png' width="600px">
+<img src='/images/CreditCard_Insights.png' width="800px">
 
 - Most customers are female, married, and self-employed.
 
