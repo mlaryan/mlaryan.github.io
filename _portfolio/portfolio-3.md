@@ -33,4 +33,7 @@ Use Chip, Exp Type, Interest_Earned, Delinquent_Acc, Date, Month, Day, Month_Nam
 - Libraries: pandas, matplotlib, seaborn, numpy
 
 
-###  Insights :
+###  Insights from Customer Dataset:
+
+<img src='/images/CreditCard_Histogram.png' width="800px">
+
