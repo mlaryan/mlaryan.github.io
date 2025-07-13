@@ -19,7 +19,7 @@ To perform an in-depth exploratory data analysis (EDA) of a credit card customer
 
 <p align="center">
   <img src="/images/CreditCard_Customer.png" width="350px" style="display: inline-block;">
-  <img src="/images/CreditCard_Credit.png" width="350px" style="display: inline-block;">
+  <img src="/images/CreditCard_Credit.png" width="360px" style="display: inline-block;">
 </p>
 
 
@@ -30,8 +30,6 @@ To perform an in-depth exploratory data analysis (EDA) of a credit card customer
 ----
 
 ###  Insights from Credit Card Dataset:
-
-<img src='/images/CreditCard_Histogram.png' width="600px">
 
 
 ---
