@@ -17,12 +17,10 @@ To perform an in-depth exploratory data analysis (EDA) of a credit card customer
 - Nature: Tabular customer-level credit data and customer dataset
 - Records: Includes features like demographic information, credit behavior, and financial indicators
 
-- 🧾 Customer Dataset Key Columns:
-<img src='/images/CreditCard_Customer.png' width="200px">
-
-
-- 🧾 Credit Card Dataset Key Columns:
-<img src='/images/CreditCard_Credit.png' width="20px">
+<p align="center">
+  <img src="/images/CreditCard_Customer.png" width="350px" style="display: inline-block;">
+  <img src="/images/CreditCard_Credit.png" width="350px" style="display: inline-block;">
+</p>
 
 
 ###  Tools & Technologies Used:
