@@ -9,7 +9,7 @@ collection: portfolio
 ---
 
 ### Background:
-To perform an in-depth exploratory data analysis (EDA) of a credit card customer dataset using Python. The goal is to uncover meaningful patterns, demographic trends, behavioral insights, and potential business opportunities to aid in customer profiling, segmentation, and financial decision-making.
+This project undertakes a comprehensive Exploratory Data Analysis (EDA) of a credit card dataset, delving into customer demographics and transaction behavior. The core objective is to reveal crucial patterns, relationships, and trends in card usage and financial metrics, ultimately delivering actionable insights for strategic product development, targeted marketing campaigns, and enhanced customer retention.
 
 
 ###  Dataset Overview:
