@@ -47,10 +47,10 @@ To perform an in-depth exploratory data analysis (EDA) of a credit card customer
 
  <img src='/images/CreditCard_Boxplot2.png' width="600px">
 
-Annual_Fees: Median ~$300, IQR ~$200-$400. Outliers extend to $500, showing a range of fee structures.
-Customer_Acq_Cost: Median ~$95-$100, IQR ~$80-$115. Outliers reach ~$170, **indicating some higher acquisition costs.**
-Interest_Earned: Median ~$500, IQR ~$200-$1000. Many outliers extend up to ~$4800, **showing a segment with significantly higher interest earned.**
-Total_Trans_Vol: Median ~65, IQR ~45-80. Outliers reach ~140, **suggesting some customers have much higher transaction frequencies**
+- Annual_Fees: Median ~$300, IQR ~$200-$400. Outliers extend to $500, showing a range of fee structures.
+- Customer_Acq_Cost: Median ~$95-$100, IQR ~$80-$115. Outliers reach ~$170, **indicating some higher acquisition costs.**
+- Interest_Earned: Median ~$500, IQR ~$200-$1000. Many outliers extend up to ~$4800, **showing a segment with significantly higher interest earned.**
+- Total_Trans_Vol: Median ~65, IQR ~45-80. Outliers reach ~140, **suggesting some customers have much higher transaction frequencies**
 
 ----
 
