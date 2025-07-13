@@ -83,7 +83,7 @@ Use Chip, Exp Type, Interest_Earned, Delinquent_Acc, Date, Month, Day, Month_Nam
 
 ---
 
-<img src='/images/CreditCard_Houseowners.png' width="600px">
+<img src='/images/CreditCard_Houseowners.png' width="700px">
 
 - More females than males own houses.
 - Graduates are the most likely to own houses.
