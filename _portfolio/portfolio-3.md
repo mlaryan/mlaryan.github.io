@@ -46,11 +46,11 @@ Use Chip, Exp Type, Interest_Earned, Delinquent_Acc, Date, Month, Day, Month_Nam
 
 <img src='/images/CreditCard_Scatterplot.png' width="600px">
 
-- A large number of customers earn below 100,000, forming a dense vertical block.
+- A large number of customers earn below 120,000, **forming a dense vertical block.**
 - Few customers appear **with very high income (>200K)**, but they are rare.
 - Income appears evenly **spread across age groups up to 60**
 
----
+--- 
 
 <img src='/images/CreditCard_Insights.png' width="800px">
 
@@ -67,9 +67,9 @@ Use Chip, Exp Type, Interest_Earned, Delinquent_Acc, Date, Month, Day, Month_Nam
 
 <img src='/images/CreditCard_PersonalLoan.png' width="600px">
 
-- Females take slightly more personal loans than males.
-- raduates take the most loans; postgraduates and doctorates the least.
-- Married people take more loans than singles.
+- Females take slightly **more personal loans than males.**
+- Graduates take the most loans; postgraduates and doctorates the least.
+- **Married people take more loans** than singles.
 - Businessmen and self-employed take the most loans; retirees the least.
 
 ----
