@@ -31,7 +31,7 @@ To perform an in-depth exploratory data analysis (EDA) of a credit card customer
 
 ###  Insights from Credit Card Dataset:
 
- <img src='/images/CreditCard_CardType.png' width="900px">
+ <img src='/images/CreditCard_CardType.png' width="1000px">
 
 - "Swipe" method is by far the most common transaction type,  **approximately 7,000 transactions**
 - Blue: Overwhelming majority, **~9,000 cards.** Gold: Very rare, **<50 cards.**
@@ -39,7 +39,7 @@ To perform an in-depth exploratory data analysis (EDA) of a credit card customer
 
 ---
 
-<img src='/images/CreditCard_ScatterPlots.png' width="900px">
+<img src='/images/CreditCard_ScatterPlots.png' width="1000px">
 
 - Total Trans Amount vs Credit Limit : No strong linear correlation; transaction **amounts are spread across limits.**
 - Total Trans Amount vs Total Trans Volume: As Total_Trans_Amount increases, **Total_Trans_Vol increases proportionally, showing some clustered steps.**
@@ -47,7 +47,7 @@ To perform an in-depth exploratory data analysis (EDA) of a credit card customer
 
 ---
 
-<img src='/images/CreditCard_LineSchart.png' width="900px">
+<img src='/images/CreditCard_LineSchart.png' width="1000px">
 
 - Customer_Acq_Cost: Peaks April-May (~100), lowest March/late year (~95), **showing seasonality.**
 - Annual_Fees: **Highs in March-April (~305-310)**, lows in early/late year (~280-285).
