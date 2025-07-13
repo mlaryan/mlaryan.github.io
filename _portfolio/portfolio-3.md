@@ -31,7 +31,7 @@ To perform an in-depth exploratory data analysis (EDA) of a credit card customer
 
 ###  Insights from Credit Card Dataset:
 
- <img src='/images/CreditCard_Histogram.png' width="600px">
+ <img src='/images/CreditCard_CardType.png' width="600px">
 
 - "Swipe" method is by far the most common transaction type,  **approximately 7,000 transactions**
 - Blue: Overwhelming majority, **~9,000 cards.** Gold: Very rare, **<50 cards.**
