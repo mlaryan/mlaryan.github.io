@@ -33,6 +33,7 @@ To perform an in-depth exploratory data analysis (EDA) of a credit card customer
 
  <img src='/images/CreditCard_Describe.png' width="1000px">
 
+-Table provides key descriptive statistics **(count, mean, std, min, 25%, 50%, 75%, max)** for eight numerical credit card metrics across 10,108 entries.
 
 ---
 
