@@ -31,6 +31,28 @@ To perform an in-depth exploratory data analysis (EDA) of a credit card customer
 
 ###  Insights from Credit Card Dataset:
 
+ <img src='/images/CreditCard_Describe.png' width="1000px">
+
+
+---
+
+ <img src='/images/CreditCard_Boxplot1.png' width="600px">
+
+- Credit_Limit: Median ~$5k-$6k, IQR ~$2.5k-$11k. Outliers extend to $35k, **representing high-tier credit access.**
+- Total_Revolving_Bal: Median ~$1.2k-$1.3k, IQR ~$400-$1.8k. Very few high outliers, **indicating consistent revolving balances.**
+- Total_Trans_Amt: Median ~$3.5k-$4k, IQR ~$2k-$5k. Outliers reach $18k-$19k, **showing a segment of high-spending customers.**
+
+----
+
+ <img src='/images/CreditCard_Boxplot2.png' width="600px">
+
+Annual_Fees: Median ~$300, IQR ~$200-$400. Outliers extend to $500, showing a range of fee structures.
+Customer_Acq_Cost: Median ~$95-$100, IQR ~$80-$115. Outliers reach ~$170, **indicating some higher acquisition costs.**
+Interest_Earned: Median ~$500, IQR ~$200-$1000. Many outliers extend up to ~$4800, **showing a segment with significantly higher interest earned.**
+Total_Trans_Vol: Median ~65, IQR ~45-80. Outliers reach ~140, **suggesting some customers have much higher transaction frequencies**
+
+----
+
  <img src='/images/CreditCard_CardType.png' width="1000px">
 
 - "Swipe" method is by far the most common transaction type,  **approximately 7,000 transactions**
@@ -56,8 +78,6 @@ To perform an in-depth exploratory data analysis (EDA) of a credit card customer
 - Total_Trans_Vol: Mirrors amount: peaks July (~67), **lowest March-April/Sept-Oct (~62.5-63).**
 - Interest_Earned: Highest July-Aug (~875-880), lowest March-April/Oct-Nov (700-750), **spiking with mid-year activity.**
 
-
----
 
 ---
 
