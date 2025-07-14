@@ -103,9 +103,12 @@ Python (Pandas, Numpy, Matplotlib, Seaborn), Power BI, Jupyter Notebook
 -  Guadalajara shows **high sales but a proportionally lower profit margin.**
 - Locations like Pachuca, Oaxaca, Chetumal, Aguascalientes  are identified as **low-volume contributors**, requiring strategic review.
 
-### Conclusion:
+### Conclusion (with Numerical Insights)"
 
-The analysis revealed strong performers like Colorbuds and Action Figures, while products like Lego Bricks had high stock but low returns. Cities such as Monterrey and CDMX led in profit, whereas others like Oaxaca and Aguascalientes underperformed.
-
-Key actions include redistributing excess stock, promoting high-margin items, optimizing store-specific inventory, and reviewing pricing and stocking strategies for underperforming regions.
-
+- Total sales reached **$14.44M from 1M units sold, but 30K units** remain in stock, with several being low-margin items — especially Lego, requiring redistribution to reduce holding costs. 
+- The overall profit margin stands at **27.79%, indicating a healthy average**
+- Products like Lego Bricks, Magic Sand, and Animal Figures showed high stock levels but low returns, contributing to over **$10.43M in total cost while offering low margins (<25%)**
+- Toys lead with 35% of $14.44M sales and $1M profit, while **Sports & Outdoors lag with 15.04% sales and $500K profitrmance**
+- Monterrey shows a **strong profit margin of over 27.48%**
+- Cities like Oaxaca, Chetumal, and Pachuca show low sales and profit, needing review
+- Review pricing and cost strategies in Guadalajara and Sports & Outdoors **(only $500K profit from 15.04% sales share) to enhance profitability.**
