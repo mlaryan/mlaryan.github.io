@@ -103,7 +103,7 @@ Python (Pandas, Numpy, Matplotlib, Seaborn), Power BI, Jupyter Notebook
 -  Guadalajara shows **high sales but a proportionally lower profit margin.**
 - Locations like Pachuca, Oaxaca, Chetumal, Aguascalientes  are identified as **low-volume contributors**, requiring strategic review.
 
-### Conclusion (with Numerical Insights)"
+### Conclusion (with Numerical Insights):
 
 - Total sales reached **$14.44M from 1M units sold, but 30K units** remain in stock, with several being low-margin items — especially Lego, requiring redistribution to reduce holding costs. 
 - The overall profit margin stands at **27.79%, indicating a healthy average**
