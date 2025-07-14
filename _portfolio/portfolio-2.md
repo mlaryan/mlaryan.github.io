@@ -110,5 +110,6 @@ Python (Pandas, Numpy, Matplotlib, Seaborn), Power BI, Jupyter Notebook
 - Products like Lego Bricks, Magic Sand, and Animal Figures showed high stock levels but low returns, contributing to over **$10.43M in total cost while offering low margins (<25%)**
 - Toys lead with 35% of $14.44M sales and $1M profit, while **Sports & Outdoors lag with 15.04% sales and $500K profitrmance**
 - Monterrey shows a **strong profit margin of over 27.48%**
-- Cities like Oaxaca, Chetumal, and Pachuca show low sales and profit, needing review
+- Cities like Chetumal, Villahermosa, Culiacan, Chilpancingo, Oaxaca, Aguascalientes, Pachuca **show low sales and profit, needing review**
 - Review pricing and cost strategies in Guadalajara and Sports & Outdoors **(only $500K profit from 15.04% sales share) to enhance profitability.**
+
