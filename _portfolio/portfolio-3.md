@@ -144,6 +144,8 @@ This project undertakes a comprehensive Exploratory Data Analysis (EDA) of a cre
 
 -----
 
+### Conclusion (with Numerical Insights):
+
 Seasonal Trends:
 - Highest spend & volume in July (Amt: ~$4,800; Vol: ~67), lowest in March–April/Oct.
 - Credit limit peaks mid-year ($9.5k), **lowest in March–April (~$7.5k–$8k).**
