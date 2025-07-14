@@ -6,23 +6,32 @@ redirect_from:
   - /about/
   - /about.html
 ---
+
 ![Frontpage](/images/Frontpage.jpg){: .align-right width="300px"}
-🏦 I am a Data Analyst while finishing my **Master’s in IT, with a focus on Natural Language Processing**, at Somaiya Vidyavihar University, Mumbai. My coursework has **pushed my GPA to 9.00, at semester 1 and 8.05 at semester 2**.
+🏦 I’m a final-year Master’s in IT student at Somaiya Vidyavihar University, Mumbai, with 1.3 years of experience analyzing user data, reviews, and both quantitative and qualitative insights to support product design decisions.
 
-✍🏻 Day to day, I use **Python, SQL, Excel, Tableau, and Power BI** to sift through messy real-world data, spot hidden trends, and weave those findings into clear, practical stories. At the moment, **I am constantly learning - deep learning and language models**, curiosity driving me to see how code can learn to read, write, and understand context the way people do.
+✍🏻 I work with Python, SQL, Excel, Tableau, and Power BI to clean real-world data, uncover trends, and communicate findings clearly. Currently diving deeper into Deep Learning and NLP, exploring how machines understand language and context.
 
-💼 I’m interested in applying these skills in impactful **domains like Healthcare, FinTech, and Mobility**. Where data can truly transform how we live, move, and make decisions.
+🌍 I’m passionate about applying data skills in Healthcare, FinTech, and Mobility, where insights drive meaningful impact.
 
-🔮 Always eager for **tough problems, hands-on side projects, and cross-functional teams**, I view every new challenge as a chance to learn something fresh and then share that learning with others.
+🚀 Always open to challenging problems, collaborative projects, and continuous learning.
+
+---
+
+## 🧠 Selected Work:
+
+- [**Operational Insights from London’s Bike Sharing Data**](https://mlaryan.github.io/portfolio/portfolio-1/)
+- [**Toy Products & Store Analytics – Toy Retail Sector**](https://mlaryan.github.io/portfolio/portfolio-2/)
+- [**Credit Card Data : Exploratory Data Analysis using Python**](https://mlaryan.github.io/portfolio/portfolio-3/)
 
 ---
 
 ## 📚 Skills
 
 - **Database:** MySQL, PostgreSQL  
-- **Programming:** SQL, Python (Pandas, NumPy, Matplotlib, Seaborn) 
+- **Programming:** SQL, Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn) 
 - **Data Tools:** Excel (Pivot Tables, Power Query), Power BI, Tableau  
-- **Machine Learning:** Scikit-learn, Regression Models, Classification, Clustering, EDA 
+- **Machine Learning:** Regression Models, Classification, Clustering, EDA 
 - **Other:** DAX, VBA, Jupyter Notebook, GitHub, MS Power Automate  
 
 ---
@@ -34,12 +43,5 @@ redirect_from:
 - [Machine Learning Specialization – by **Andrew Ng**](https://www.coursera.org/account/accomplishments/specialization/R06XLN6URX42)
 - Deep Learning Specialization - by **Andrew Ng** (Currently in progress⌛)
 
----
 
-## 🌍 Interests & Hobbies
 
-Outside of academics and research, I love to:
-- 🌏 Travel and explore historical places  
-- 🥘 Try unique international cuisines  
-- 🪙 Collect ancient coins and antiques  
-- 📖 Read spy novels & military history
