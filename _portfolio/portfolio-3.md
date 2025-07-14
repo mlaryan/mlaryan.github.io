@@ -144,3 +144,25 @@ This project undertakes a comprehensive Exploratory Data Analysis (EDA) of a cre
 
 -----
 
+Seasonal Trends:
+- Highest spend & volume in July (Amt: ~$4,800; Vol: ~67), lowest in March–April/Oct.
+- Credit limit peaks mid-year ($9.5k), **lowest in March–April (~$7.5k–$8k).**
+- Interest earned & acquisition costs also peak mid-year, **drop early and late in year.**
+
+Customer Demographics:
+- Age centered at 45–50; few <30 or >65 — **suggesting a working middle-aged base.**
+- Most customers earn < $120k; **high-income (> $200k) are rare.**
+- **Majority are female, married, and self-employed.**
+
+Loans, Car & House Ownership:
+- Loans: **More common among females**, graduates, and self-employed.
+- Car ownership: **Higher in females**, graduates, and self-employed.
+- House ownership: **More common in females**, married, and business/self-employed.
+
+Satisfaction Ratings:
+- Most rate 3 (neutral); **ratings 4–5 are also common**, showing mild positive skew.
+
+Categorical Trends:
+- Card type: **~9,000 hold Blue cards**; Gold cards <50.
+- Method: **Swipe dominates (~7,000 transactions).**
+- Top spend areas: Bills (~3,000), **Entertainment (~2,000), Fuel (~1,700).**
