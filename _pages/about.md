@@ -12,7 +12,7 @@ redirect_from:
 
 ✍🏻 I work with **Python, SQL, Excel, Tableau, and Power BI** to clean real-world data, uncover trends, and communicate findings clearly. Currently diving deeper into Deep Learning and NLP, exploring how machines understand language and context.
 
-🌍 I’m passionate about applying data skills in **Healthcare, FinTech, and Mobility**, where insights drive meaningful impact.
+🌍 I'm interested in applying data skills across Healthcare, FinTech, and Mobility to uncover insights that drive meaningful impact.
 
 🚀 Always open to challenging problems, collaborative projects, and continuous learning.
 
