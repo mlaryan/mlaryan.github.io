@@ -1,13 +1,13 @@
 ---
 permalink: /
-title: "Hello there, I'm Aryan!"
+title: "Hello there, I'm Aryan"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-![Frontpage](/images/Frontpage4.jpg){: .align-right width="300px"}
+![Frontpage](/images/Frontpage4_1.jpg){: .align-right width="300px"}
 🏦 I’m a final-year Master’s in IT student at Somaiya Vidyavihar University, Mumbai, **with 1.3 years of experience** analyzing user data, reviews, and both quantitative and qualitative insights to support product design decisions.
 
 ✍🏻 I work with **Python, SQL, Excel, Tableau, and Power BI** to clean real-world data, uncover trends, and communicate findings clearly. Currently diving deeper into Deep Learning and NLP, exploring how machines understand language and context.
