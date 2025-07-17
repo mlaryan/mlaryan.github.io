@@ -128,7 +128,7 @@ Sales show a **consistent decline from 2018 ($3.51bn) to 2020 ($2.66bn).**
 
 ---
 
-  <img src="/images/PharmaCover3.png" alt="Pharma Cover Image 3" width= "400px">
+  <img src="/images/PharmaCover3.png" alt="Pharma Cover Image 3" width= "1000px">
 
 - Brittany Bold leads with **$3.63B in total sales** — the highest among all managers.
 - Jimmy Grey tops the individual chart with **$985.97M in total sales under Alisha Cordwell.**
