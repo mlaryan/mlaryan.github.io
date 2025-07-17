@@ -16,19 +16,20 @@ Imagine needing to truly understand what's happening with pharmaceutical sales. 
 - Support strategic planning for product launches, marketing campaigns, and sales force allocation
 
 ### Background:
-- Total Sales and Product Performance Overview
+- **Total Sales and Product Performance Overview**
   <img src="/images/PharmaCover1.png" alt="Pharma Cover Image 1">
 
-- City-Level Sales and Price Analysis - Germany & Poland
+- **City-Level Sales and Price Analysis - Germany & Poland**
   <img src="/images/PharmaCover2.png" alt="Pharma Cover Image 2">
-  
-- Sales Manager and Contribution Analysis
+
+- **Sales Manager and Contribution Analysis**
   <img src="/images/PharmaCover3.png" alt="Pharma Cover Image 3">
 
 ###  Tools & Technologies Used:
 - Power BI
 
 ### Insights:
+
 
 
 
