@@ -88,9 +88,12 @@ Sales show a **consistent decline from 2018 ($3.51bn) to 2020 ($2.66bn).**
 
 ---
 
-<img src="/images/PharmaChannel.png" width="500px">
+<img src="/images/PharmaChannel.png" width= "400px">
 
 - Overall Trend: Both Hospital and Pharmacy channels show a general **decreasing trend in sales from 2018 to 2020.**
 - From 2017 to 2019, both Hospital and Pharmacy channels experienced a **sales peak in 2018**, with Pharmacy consistently generating higher total sales.
 - 2018: Hospital: Approximately **$1.7 billion**; Pharmacy: Approximately **$1.85 billion (highest sales for both channels)**
 - 2020: Hospital: Approximately **$1.2 billion (lowest sales for Hospital)**; Pharmacy: Approximately **$1.4 billion (lowest sales for Pharmacy)**  
+
+---
+
