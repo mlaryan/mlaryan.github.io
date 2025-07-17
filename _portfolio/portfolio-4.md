@@ -6,7 +6,9 @@ collection: portfolio
 
 <p align="center">
   <img src="/images/PharmaCover1.png">
+  <br>
   <img src="/images/PharmaCover2.png">
+  <br>
    <img src="/images/PharmaCover3.png">
 </p>
 
