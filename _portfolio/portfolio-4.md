@@ -97,7 +97,7 @@ Sales show a **consistent decline from 2018 ($3.51bn) to 2020 ($2.66bn).**
 
 ---
 
-<img src="/images/Screenshot 2025-07-18 002103.png" width= "400px">
+<img src="/images/Screenshot 2025-07-18 002103.png" width= "800px">
 
 - Total Sales: $11.798 billion from **29 million units sold.**
 - Sales Dominance: **Analgesics ($2.37B, 20.1%) and Antiseptics ($2.37B, 18.96%)** are the top two product classes by sales, collectively accounting for $4.74B (39.06%) of total sales.
