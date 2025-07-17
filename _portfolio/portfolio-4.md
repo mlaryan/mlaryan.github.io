@@ -4,6 +4,13 @@ excerpt: "A comprehensive analytical solution designed for Pharma Sales Data. It
 collection: portfolio
 ---
 
+<p align="center">
+  <img src="/images/PharmaCover1.png" width="350px" style="display: inline-block;">
+  <img src="/images/PharmaCover2.png" width="380px" style="display: inline-block;">
+   <img src="/images/PharmaCover3.png" width="380px" style="display: inline-block;">
+</p>
+
+
 ### Background:
 Imagine needing to truly understand what's happening with pharmaceutical sales. That's precisely what this project sets out to do. We've built an intuitive dashboard, powered by Power BI, that takes all our raw sales figures and turns them into clear, actionable insights. Think of it as a detailed map that shows us exactly where our products are selling, through which channels, and how our sales teams are performing, all based on a robust and well-organized data foundation. It's about bringing clarity to complex sales data so we can make smarter decisions, faster.
 
