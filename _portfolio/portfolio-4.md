@@ -1,6 +1,6 @@
 ---
 title: "Pharma Sales Performance Report"
-excerpt: "A comprehensive analytical solution designed for Pharma Sales Data. It's built on a robust star-schema data model that integrates sales transactions with key dimensions like product, channel, geography, and sales force. It utilizes Power BI to transform raw sales figures into actionable insights for strategic decision-making.<br/><img src='/images/PharmaCover.png'>"
+excerpt: "A comprehensive analytical solution designed for Pharma Sales Data. It's built on a robust star-schema data model that integrates sales transactions with key dimensions like product, channel, geography, and sales force. It utilizes Power BI to transform raw sales figures into actionable insights for strategic decision-making.<br/><img src='/images/PharmaCover.png' style='margin-top: 10px;'/>"
 collection: portfolio
 ---
 
