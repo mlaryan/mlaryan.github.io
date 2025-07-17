@@ -5,11 +5,11 @@ collection: portfolio
 ---
 
 <p align="center">
-  <img src="/images/PharmaCover1.png">
+  <img src="/images/PharmaCover1.png" alt="Pharma Cover Image 1">
   <br>
-  <img src="/images/PharmaCover2.png">
+  <img src="/images/PharmaCover2.png" alt="Pharma Cover Image 2">
   <br>
-   <img src="/images/PharmaCover3.png">
+  <img src="/images/PharmaCover3.png" alt="Pharma Cover Image 3">
 </p>
 
 
