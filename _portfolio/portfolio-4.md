@@ -1,26 +1,24 @@
 ---
 title: "Pharma Sales Performance Report"
-excerpt: "A comprehensive analytical solution designed for Pharma Sales Data. It's built on a robust star-schema data model that integrates sales transactions with key dimensions like product, channel, geography, and sales force. It utilizes Power BI to transform raw sales figures into actionable insights for strategic decision-making..<br/><img src='/images/500x300.png'>"
+excerpt: "A comprehensive analytical solution designed for Pharma Sales Data. It's built on a robust star-schema data model that integrates sales transactions with key dimensions like product, channel, geography, and sales force. It utilizes Power BI to transform raw sales figures into actionable insights for strategic decision-making..<br/><img src='/images/PharmaCover.png'>"
 collection: portfolio
 ---
 
-
 ### Background:
-This Power BI project is developed to provide clear and practical insights into pharmaceutical sales data. It is based on a well-structured star-schema data model. The main objective of the dashboard is to convert raw sales data into meaningful insights that help decision-makers understand performance trends, track progress, and identify areas for improvement. By making the data more accessible and easy to analyze, the dashboard supports better planning, performance monitoring, and strategy development within the organization.
+Imagine needing to truly understand what's happening with pharmaceutical sales. That's precisely what this project sets out to do. We've built an intuitive dashboard, powered by Power BI, that takes all our raw sales figures and turns them into clear, actionable insights. Think of it as a detailed map that shows us exactly where our products are selling, through which channels, and how our sales teams are performing, all based on a robust and well-organized data foundation. It's about bringing clarity to complex sales data so we can make smarter decisions, faster.
+
+**Objective:** The primary objective of this project is to develop an interactive Power BI report that empowers sales managers, marketing teams, and executives at Roche Pharma to
+
+- Monitor overall sales performance and identify deviations from targets.
+- Analyze sales trends by various dimensions (e.g., product, channel, region, time).
+- Evaluate the performance of sales representatives and distributors.
+- Understand customer purchasing behavior and identify key customer segments
+- Support strategic planning for product launches, marketing campaigns, and sales force allocation
+
+###  Tools & Technologies Used:
+- Power BI
+
+### Insights:
 
 
-Business Use Case:
-In the competitive pharma sector, optimizing sales performance is critical. This dashboard enables:
 
-- Product & Channel Insights: Analyze product performance across distribution channels to guide marketing and channel strategies.
-
-- Market Penetration Analysis: Visualize sales across regions to identify growth opportunities and optimize territory planning.
-
-- Distributor Evaluation: Track distributor performance for better partner management and strategic alignment.
-
-- Sales Force Monitoring: Assess individual and team performance, compare reps to team averages, and recognize top performers.
-
-- Best Practice Identification: Highlight successful teams and managers to scale effective strategies.
-
-#### Outcome:
-By enabling proactive, data-driven decisions, the dashboard boosts sales efficiency, market reach, and competitive advantage.
