@@ -97,3 +97,45 @@ Sales show a **consistent decline from 2018 ($3.51bn) to 2020 ($2.66bn).**
 
 ---
 
+<img src="/images/Screenshot 2025-07-18 002103.png" width= "400px">
+
+- Total Sales: $11.798 billion from **29 million units sold.**
+- Sales Dominance: **Analgesics ($2.37B, 20.1%) and Antiseptics ($2.37B, 18.96%)** are the top two product classes by sales, collectively accounting for $4.74B (39.06%) of total sales.
+
+
+**Insights from the matrix table:**
+- Top Performers: Analgesics & Antiseptics drive ~40% of sales ($4.74B); maintain focus.
+- High-Value Leverage: Antipiretics' high ASP ($464.72) makes it a prime candidate for volume growth.
+- Targeted Growth: Consider boosting Government sales for **Antimalarial (highest ASP in class, $354.87).**
+- High-Value Leverage: Antipiretics' **high ASP ($464.72)** makes it a prime candidate for volume growth.
+
+<img src="/images/PharmaGeoTable.png" width= "400px">
+
+- Butzbach dominates due to its exceptional combination of **high prices and high quantity.**
+- Cities like Dortmund and Arnsberg need attention – low prices and volumes reduce their contribution.
+- Several cities (e.g., Friedberg, Bottrop, Freising) show sustainable, mid-range performance — essential for long-term stability.
+
+----
+
+<p align="center">
+  <img src="/images/PharmaMap1.png" width="45%" />
+  <img src="/images/PharmaMap2.png" width="45%" />
+</p>
+
+- Regional Insights: Instantly spot **high-performing cities and clusters (like western Germany)** for both sales and pricing.
+- Targeted Strategy: Identify underperforming  **(e.g., eastern regions) for market expansion or pricing optimization**
+- City-Level Drilldowns: Hovering over cities like Warstein gives precise average price data — useful for localized decision-making.
+
+---
+
+  <img src="/images/PharmaCover3.png" alt="Pharma Cover Image 3" width= "400px">
+
+- Brittany Bold leads with **$3.63B in total sales** — the highest among all managers.
+- Jimmy Grey tops the individual chart with **$985.97M in total sales under Alisha Cordwell.**
+- Brittany Bold’s team moved **8.87M units,** leading in volume, despite slightly lower average prices.
+- **Jimmy Grey with $429.96 per unit** – above the team and national average.
+- Stella Given, Daniel Gates, and Jimmy Grey all have nearly equal team average sales (~$941M), **indicating strong team balance and leadership under Alisha.**
+- James Goodwill’s team, **despite decent volume (6.30M units),** lags in **total revenue at $2.58B** due to a **lower average price ($409.55).**
+- **Close Competition Between Teams**: Charlie: $2.82B, Alfa; $2.58B; Bravo: $2.75B
+
+  
