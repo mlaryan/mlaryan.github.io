@@ -4,7 +4,7 @@ excerpt: "A comprehensive analytical solution designed for Pharma Sales Data. It
 collection: portfolio
 ---
 
-## [Github](https://github.com/mlaryan/Toy-Sales-Analytics-Dashboard)
+## [Github](https://github.com/mlaryan/Pharma-Sales-Performance-Report/tree/main)
 
 
 ### Outcome :
