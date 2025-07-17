@@ -5,9 +5,9 @@ collection: portfolio
 ---
 
 <p align="center">
-  <img src="/images/PharmaCover1.png" width="350px" style="display: inline-block;">
-  <img src="/images/PharmaCover2.png" width="380px" style="display: inline-block;">
-   <img src="/images/PharmaCover3.png" width="380px" style="display: inline-block;">
+  <img src="/images/PharmaCover1.png">
+  <img src="/images/PharmaCover2.png">
+   <img src="/images/PharmaCover3.png">
 </p>
 
 
