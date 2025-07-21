@@ -40,6 +40,4 @@ redirect_from:
 - [Tableau : Hands-on Tableau Training for Data Science](https://www.udemy.com/certificate/UC-ca32b0fd-6509-4d32-96bb-f665334a17f5/)
 - [Machine Learning Specialization – by Andrew Ng](https://www.coursera.org/account/accomplishments/specialization/R06XLN6URX42)
 - Deep Learning Specialization - by Andrew Ng (**Currently in progress⌛**)
-
-
-
+- NLP Specialization (**Currently in progress⌛**)
