@@ -36,10 +36,10 @@ redirect_from:
 
 ## 🎓 Courses & Specializations
 
-- [Complete Data Analyst by **Krish Naik**](https://www.udemy.com/certificate/UC-d5585782-2057-48d4-8c51-50de1b4b5ae6/)
+- [Complete Data Analyst by Krish Naik](https://www.udemy.com/certificate/UC-d5585782-2057-48d4-8c51-50de1b4b5ae6/)
 - [Tableau : Hands-on Tableau Training for Data Science](https://www.udemy.com/certificate/UC-ca32b0fd-6509-4d32-96bb-f665334a17f5/)
-- [Machine Learning Specialization – by **Andrew Ng**](https://www.coursera.org/account/accomplishments/specialization/R06XLN6URX42)
-- Deep Learning Specialization - by **Andrew Ng** (Currently in progress⌛)
+- [Machine Learning Specialization – by Andrew Ng](https://www.coursera.org/account/accomplishments/specialization/R06XLN6URX42)
+- Deep Learning Specialization - by Andrew Ng (**Currently in progress⌛**)
 
 
 
