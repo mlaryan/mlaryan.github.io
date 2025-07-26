@@ -22,7 +22,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "Profilepic5_1.jpg"
+  avatar           : "ProfilepicME.jpg"
   name             : "Aryan Dhanawade"  
   pronouns         : # example: "she/her"
   bio              : "Data Analytics, Python, Power BI, Tableau, Machine Learning, NLP"
